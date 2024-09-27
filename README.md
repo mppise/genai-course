@@ -1,8 +1,11 @@
 # GenAI Course
 Instructor contact:
-Mangesh Pise 
-E: mppise@gmail.com
-L: https://www.linkedin.com/in/mangeshpise/
+  
+  Mangesh Pise 
+
+  E: mppise@gmail.com
+
+  L: https://www.linkedin.com/in/mangeshpise/
 
 ---
 
