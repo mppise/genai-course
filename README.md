@@ -1,5 +1,4 @@
 # GenAI Course
-Instructor contact:
   
   Mangesh Pise 
 
